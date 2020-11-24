@@ -3,8 +3,9 @@
 
 
 <p align="center">I have over 15 years of experience. constantly learning and improving my skills, always strive to deliver more than expected.<p>
-<p align="center" margin="26px">“The mind that opens up to a new idea never returns to its original size.” – Albert Einstein.<p>
+<p align="center">“The mind that opens up to a new idea never returns to its original size.” – Albert Einstein.<p>
 
+<p align="left">
 - 🔭 I’m currently working on [SAVAMWEB](http://www.savamweb.com.br/)
 
 - 🌱 I’m currently learning **NextJS**
@@ -14,7 +15,7 @@
 - 💬 Ask me about **Javascript, React or NodeJS**
 
 - 📄 Know about my experiences [fabioalbiero.com/files/resume.pdf](http://fabioalbiero.com/files/resume.pdf)
-
+<p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
