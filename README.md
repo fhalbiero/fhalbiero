@@ -4,7 +4,7 @@
 
 
 <p align="center">I have over 15 years of experience. constantly learning and improving my skills, always strive to deliver more than expected.<p>
-<p align="center">“The mind that opens up to a new idea never returns to its original size.” – Albert Einstein.<p>
+> “The mind that opens up to a new idea never returns to its original size.” – Albert Einstein.
 
 
 
@@ -21,18 +21,18 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5519993797231">
-    <img alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+    <img alt="Whatsapp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
   </a>
   <a target="_blank" href="mailto:fhalbiero@gmail.com">
-    <img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
   <a href="https://linkedin.com/in/fhalbiero" target="blank">
-    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fhalbiero" />
+    <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fhalbiero" />
   </a>
   <a href="https://www.hackerrank.com/fhalbiero" target="blank">
-    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="fhalbiero" />
+    <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="fhalbiero" />
   </a>
 </p>
 
