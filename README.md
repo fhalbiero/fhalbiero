@@ -3,8 +3,8 @@
 <h3 align="center">A passionate full stack engineer from Brazil</h3>
 
 
-<p align="center">I have over 15 years of experience. constantly learning and improving my skills, always strive to deliver more than expected.<p>
-> “The mind that opens up to a new idea never returns to its original size.” – Albert Einstein.
+<p align="center">I have over 15 years of experience. constantly learning and improving my skills, always strive to deliver more than expected.</p>
+<p align="center">“The mind that opens up to a new idea never returns to its original size.” – Albert Einstein.</p>
 
 
 
