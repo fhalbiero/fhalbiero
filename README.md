@@ -3,7 +3,7 @@
 
 
 <p align="center">I have over 15 years of experience. constantly learning and improving my skills, always strive to deliver more than expected.<p>
-<p align="center">**“The mind that opens up to a new idea never returns to its original size.”** – Albert Einstein.<p>
+<p align="center" margin-bottom="26px">“The mind that opens up to a new idea never returns to its original size.” – Albert Einstein.<p>
 
 - 🔭 I’m currently working on [SAVAMWEB](http://www.savamweb.com.br/)
 
