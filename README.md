@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fabio</h1>
 <h3 align="center">A passionate full stack engineer from Brazil</h3>
 
+
 I am a Full Stack Engineer with over 15 years of experience. constantly learning and improving my skills, always strive to deliver more than expected.
+
+
+
+
 
 
 - 🔭 I’m currently working on [SAVAMWEB](http://www.savamweb.com.br/)
