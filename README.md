@@ -1,21 +1,24 @@
-<h1 align="center">Hi 👋, I'm Fabio</h1>
+<h1 align="center">👋 Helloooo, I'm Fabio</h1>
+
 <h3 align="center">A passionate full stack engineer from Brazil</h3>
 
 
 <p align="center">I have over 15 years of experience. constantly learning and improving my skills, always strive to deliver more than expected.<p>
 <p align="center">“The mind that opens up to a new idea never returns to its original size.” – Albert Einstein.<p>
 
-<p align="left">
+
+
 - 🔭 I’m currently working on [SAVAMWEB](http://www.savamweb.com.br/)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently and constantly learning **Javascript, ReactJS, React Native, NodeJS, NextJS, GraphQL**
 
-- 👨‍💻 All of my projects are available at [fabioalbiero.com](http://fabioalbiero.com)
+- 👨‍💻 Some of my projects are available at [fabioalbiero.com](http://fabioalbiero.com)
 
 - 💬 Ask me about **Javascript, React or NodeJS**
 
 - 📄 Know about my experiences [fabioalbiero.com/files/resume.pdf](http://fabioalbiero.com/files/resume.pdf)
-<p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
