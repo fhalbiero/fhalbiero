@@ -3,41 +3,39 @@
 
 
 <p align="center">I have over 15 years of experience. constantly learning and improving my skills, always strive to deliver more than expected.<p>
-<p align="center">“The mind that opens up to a new idea never returns to its original size.” – Albert Einstein.<p>
+<p align="center">**“The mind that opens up to a new idea never returns to its original size.”** – Albert Einstein.<p>
 
 - 🔭 I’m currently working on [SAVAMWEB](http://www.savamweb.com.br/)
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [http://fabioalbiero.com](http://fabioalbiero.com)
+- 👨‍💻 All of my projects are available at [fabioalbiero.com](http://fabioalbiero.com)
 
 - 💬 Ask me about **Javascript, React or NodeJS**
 
-- 📫 How to reach me **fhalbiero@gmail.com**
-
-- 📄 Know about my experiences [http://fabioalbiero.com/files/resume.pdf](http://fabioalbiero.com/files/resume.pdf)
+- 📄 Know about my experiences [fabioalbiero.com/files/resume.pdf](http://fabioalbiero.com/files/resume.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5519993797231">
-    <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+    <img alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
   </a>
   <a target="_blank" href="mailto:fhalbiero@gmail.com">
-    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
   <a href="https://linkedin.com/in/fhalbiero" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fhalbiero" height="30" width="40" />
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fhalbiero" />
   </a>
   <a href="https://www.hackerrank.com/fhalbiero" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="fhalbiero" height="30" width="40" />
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="fhalbiero" />
   </a>
 </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a> 
+  <code><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></code> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
