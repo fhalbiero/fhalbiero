@@ -8,7 +8,7 @@
 
 
 
-- I’m currently working at <a target="_blank" href="https://www.trylynk.com/"> <img src="https://www.trylynk.com/logos/logo-lynk-color.png?imwidth=128" width="80" height="40" /> </a>
+- I’m currently working at <a target="_blank" href="https://www.trylynk.com/"> <img src="https://www.trylynk.com/logos/logo-lynk-color.png?imwidth=128" width="80" height="30" /> </a>
 
 - I’m currently and constantly learning **Javascript, ReactJS, React Native, NodeJS, NextJS, GraphQL**
 
@@ -39,20 +39,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
-  <code><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></code> 
   <a href="https://babeljs.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-plain.svg" width="40" height="40"/>
   </a> 
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> CSS </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
+  </a> 
   <a href="https://expressjs.com" target="_blank"> Express </a> 
   <a href="https://www.figma.com/" target="_blank"> Figma </a> 
   <a href="https://firebase.google.com/" target="_blank"> Firebase </a>      
-  <a href="https://graphql.org" target="_blank"> GraphQL </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://jestjs.io" target="_blank"> Jest/> </a> 
+  <a href="https://graphql.org" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> 
+  </a> 
+  <a href="https://jestjs.io" target="_blank"> Jest </a> 
   <a href="https://www.mongodb.com/" target="_blank"> MongoDB </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> 
