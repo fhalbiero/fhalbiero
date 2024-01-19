@@ -8,7 +8,7 @@
 
 
 
-- I’m currently working at <a target="_blank" href="https://www.trylynk.com/"> <img src="https://www.trylynk.com/logos/logo-lynk-color.png?imwidth=128" width="60" height="40" /> </a>
+- I’m currently working at <a target="_blank" href="https://www.trylynk.com/"> <img src="https://www.trylynk.com/logos/logo-lynk-color.png?imwidth=128" width="80" height="40" /> </a>
 
 - I’m currently and constantly learning **Javascript, ReactJS, React Native, NodeJS, NextJS, GraphQL**
 
@@ -41,10 +41,10 @@
 <p align="center"> 
   <code><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></code> 
   <a href="https://babeljs.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-plain.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-plain.svg" width="40" height="40"/>
   </a> 
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> CSS </a> 
   <a href="https://expressjs.com" target="_blank"> Express </a> 
