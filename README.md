@@ -8,7 +8,7 @@
 
 
 
-- I’m currently working at <a target="_blank" href="https://www.trylynk.com/"> <img src="https://www.trylynk.com/logos/logo-lynk-color.png?imwidth=128"/> </a>
+- I’m currently working at <a target="_blank" href="https://www.trylynk.com/"> <img src="https://www.trylynk.com/logos/logo-lynk-color.png?imwidth=128" width="60" height="40" /> </a>
 
 - I’m currently and constantly learning **Javascript, ReactJS, React Native, NodeJS, NextJS, GraphQL**
 
@@ -23,10 +23,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5519993797231">
-    <img alt="Whatsapp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+    <img alt="Whatsapp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" width="40" height="40"/>
   </a>
   <a target="_blank" href="mailto:fhalbiero@gmail.com">
-    <img alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40" height="40"/>
   </a>
   <a href="https://linkedin.com/in/fhalbiero" target="blank">
     <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fhalbiero" />
