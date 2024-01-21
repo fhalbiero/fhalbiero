@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack engineer from Brazil</h3>
 
 
-<p align="center">I have over 15 years of experience. constantly learning and improving my skills, always strive to deliver more than expected.</p>
+<p align="center">I have over 15 years of experience. constantly learning and improving my skills, and always striving to deliver more than expected.</p>
 <p align="center">“The mind that opens up to a new idea never returns to its original size.” – Albert Einstein.</p>
 
 
@@ -21,16 +21,16 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a target="_blank" href="https://api.whatsapp.com/send?phone=5519993797231"><img alt="Whatsapp" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" width="40" height="40"/></a>
-  <a target="_blank" href="mailto:fhalbiero@gmail.com"><img alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40" height="40"/></a>
-  <a href="https://linkedin.com/in/fhalbiero" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="40" height="40"/></a>
-  <a href="https://www.hackerrank.com/fhalbiero" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" width="40" height="40"/></a>
+<p align="left" style={ display: "flex", gap: 8 }>
+  <a target="_blank" href="https://api.whatsapp.com/send?phone=5519993797231"><img alt="Whatsapp" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" width="30" height="30"/></a>
+  <a target="_blank" href="mailto:fhalbiero@gmail.com"><img alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30" height="30"/></a>
+  <a href="https://linkedin.com/in/fhalbiero" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="30" height="30"/></a>
+  <a href="https://www.hackerrank.com/fhalbiero" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" width="30" height="30"/></a>
 </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<p align="center" style={ display: "flex", gap: 8 }> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/></a> 
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/></a> 
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
