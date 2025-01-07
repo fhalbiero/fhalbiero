@@ -7,9 +7,7 @@
 </p>
 <p align="center">“The mind that opens up to a new idea never returns to its original size.” – Albert Einstein</p>
 
-- 👨‍💻 I’m currently working at <a target="_blank" href="https://www.kartera.com/">
-  <img src="https://www.kartera.com/202406/logo-kartera.svg" width="80" height="30" />
-</a>
+- 👨‍💻 I’m currently working as Senior Frontend at <a target="_blank" href="https://www.kartera.com/">[KARTERA]</a>
 
 - 📚 I’m continuously learning **JavaScript, Typescript, ReactJS, React Native, NodeJS, NextJS, and GraphQL**
 
