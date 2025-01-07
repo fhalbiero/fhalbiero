@@ -1,28 +1,30 @@
-<h1 align="center">👋 Helloooo, I'm Fabio</h1>
+<h1 align="center">👋 Hello, I'm Fabio!</h1>
 
-<h3 align="center">A passionate full stack engineer from Brazil</h3>
+<h3 align="center">A Passionate Full Stack Engineer from Brazil</h3>
 
+<p align="center">
+  With over 15 years of professional experience, I’m a dedicated lifelong learner who’s always improving, and I strive to exceed expectations every step of the way.
+</p>
+<p align="center">“The mind that opens up to a new idea never returns to its original size.” – Albert Einstein</p>
 
-<p align="center">I have over 15 years of experience. constantly learning and improving my skills, and always striving to deliver more than expected.</p>
-<p align="center">“The mind that opens up to a new idea never returns to its original size.” – Albert Einstein.</p>
+- 👨‍💻 I’m currently working at <a target="_blank" href="https://www.kartera.com/">
+  <img src="https://www.kartera.com/202406/logo-kartera.svg" width="80" height="30" />
+</a>
 
+- 📚 I’m continuously learning **JavaScript, Typescript, ReactJS, React Native, NodeJS, NextJS, and GraphQL**
 
+- 🌐 Some of my projects are available at [fabioalbiero.com](http://fabioalbiero.com)
 
-- I’m currently working at <a target="_blank" href="https://www.trylynk.com/"> <img src="https://www.trylynk.com/logos/logo-lynk-color.png?imwidth=128" width="80" height="30" /> </a>
+- 💬 Ask me about **JavaScript, React, or NodeJS**
 
-- I’m currently and constantly learning **Javascript, ReactJS, React Native, NodeJS, NextJS, GraphQL**
+- 📝 Check out my experience in my [resume](http://fabioalbiero.com/files/resume.pdf)
 
-- Some of my projects are available at [fabioalbiero.com](http://fabioalbiero.com)
-
-- Ask me about **Javascript, React or NodeJS**
-
-- Know about my experiences [fabioalbiero.com/files/resume.pdf](http://fabioalbiero.com/files/resume.pdf)
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style={ display: flex; gap: 8; }>
-  <a target="_blank" href="https://api.whatsapp.com/send?phone=5519993797231"><img alt="Whatsapp" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" width="30" height="30"/></a>
+  <a target="_blank" href="https://api.whatsapp.com/send?phone=14039777667"><img alt="Whatsapp" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" width="30" height="30"/></a>
   <a target="_blank" href="mailto:fhalbiero@gmail.com"><img alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30" height="30"/></a>
   <a href="https://linkedin.com/in/fhalbiero" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="30" height="30"/></a>
   <a href="https://www.hackerrank.com/fhalbiero" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" width="30" height="30"/></a>
@@ -48,8 +50,6 @@
   <a href="https://jestjs.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" /></a> 
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/></a> 
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
-  <a href="https://github.com/puppeteer/puppeteer" target="_blank"><img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" alt="redis" width="40" height="40"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fhalbiero&show_icons=true&locale=en&layout=compact" alt="fhalbiero" /></p>
